@@ -1,7 +1,7 @@
 rule all:
     input:
-        auspice_tree = "auspice/zika_tree.json",
-        auspice_meta = "auspice/zika_meta.json"
+        auspice_tree = "auspice/ZIKV-PR_tree.json",
+        auspice_meta = "auspice/ZIKV-PR_meta.json"
 
 rule files:
     params:
