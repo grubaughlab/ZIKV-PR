@@ -134,8 +134,8 @@
     },
     "Chiu et al": {
       "journal": "Unpublished",
-      "n": 3,
-      "title": "Epidemic establishment and cryptic transmission of Zika virus in Brazil and the Americas"
+      "n": 4,
+      "title": "Acute Zika virus infection in an asymptomatic blood donor at the onset of the Puerto Rico epidemic"
     },
     "Cunha et al": {
       "journal": "Genome Announc 4 (2) (2016)",
@@ -189,7 +189,7 @@
     },
     "Grubaugh et al": {
       "journal": "Nature (2017) In press",
-      "n": 44,
+      "n": 46,
       "title": "Genomic epidemiology reveals multiple introductions of Zika virus into the United States"
     },
     "Iovine et al": {
@@ -229,7 +229,7 @@
     },
     "Lanciotti et al": {
       "journal": "Emerging Infect. Dis. 22 (5), 933-935 (2016)",
-      "n": 5,
+      "n": 6,
       "title": "Phylogeny of Zika Virus in Western Hemisphere, 2015"
     },
     "Lasala-Sanchez et al": {
@@ -264,7 +264,7 @@
     },
     "Metsky et al": {
       "journal": "Nature 546 (7658), 411-415 (2017)",
-      "n": 86,
+      "n": 89,
       "title": "Zika virus evolution and spread in the Americas"
     },
     "Miranda et al": {
@@ -334,7 +334,7 @@
     },
     "Rios et al": {
       "journal": "Unpublished",
-      "n": 3,
+      "n": 4,
       "title": "Database for Reference Grade Microbial Sequences (FDA-ARGOS)"
     },
     "Sermeno-Correa et al": {
@@ -656,6 +656,10 @@
         [
           "usa",
           "#BBBBBB"
+        ],
+        [
+          "puerto_rico",
+          "#BBBBBB"
         ]
       ],
       "key": "region-in-PR",
@@ -862,6 +866,10 @@
         "latitude": -10.0,
         "longitude": -75.25
       },
+      "puerto_rico": {
+        "latitude": 18.222264,
+        "longitude": -66.430278
+      },
       "saint_barthelemy": {
         "latitude": 17.9049171,
         "longitude": -62.847207
@@ -902,6 +910,6 @@
     "entropy"
   ],
   "title": "Zika virus emergence in Puerto Rico",
-  "updated": "06 Jan 2020",
-  "virus_count": 517
+  "updated": "07 Jan 2020",
+  "virus_count": 522
 }
