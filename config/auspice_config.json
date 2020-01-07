@@ -1,0 +1,26 @@
+{
+  "title": "Zika virus emergence in Puerto Rico",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"},
+    "region-in-PR": {"legendTitle":"Region within Puerto Rico", "menuItem":"within-PR", "type":"discrete"}
+  },
+  "geo": [
+    "country",
+    "region-in-PR"
+  ],
+  "maintainer": [
+    "Chaney Kalinich",
+    "github.com/grubaughlab/ZIKV-PR/tree/master/config"
+  ],
+  "filters": [
+    "country",
+    "region-in-PR",
+    "authors"
+  ],
+  "defaults": {
+   "colorBy": "country",
+   "mapTriplicate": false,
+   "geoResolution": "country"
+ }
+}
